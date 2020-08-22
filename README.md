@@ -1,9 +1,9 @@
-### Insta-Login Bot
+## Insta-Login Bot
 
-#### Description
+### Description
 Hepls in Login Automation through selenium using javascript in linux.
 
-#### SetUp 
+### SetUp 
 **Step-1** Install Node
 > $ sudo apt install nodejs
 
@@ -23,16 +23,17 @@ you can download it from the given link:-
 https://chromedriver.chromium.org/downloads
  
 you will get a zip file extract in on the desired location
+
 **Step-6** Setting up the enviromental variable so that you can access the webdriver from anywhere .
 > $ vim .bashrc
 
 - it will open the vim text editor
 setup the path as:
 > $ export PATH=$PATH: /path/to/your/extracted webdriver
-#### system is ready
+### system is ready
+--------------------------------------------------------------------------------------------------
 
-
-#### Getting started with selenium
+### Getting started with selenium
 **Step-1** create a folder
 open terminal move to that folder
 **Step-2** initizalising
@@ -42,12 +43,15 @@ open terminal move to that folder
 > $ npm install selenium-webdriver
 
 it will create the required packages and modules
+
 **Step-4** make a js file
 now you are ready for further assistance prefer the documentation
 https://www.selenium.dev/documentation/en/getting_started/
-**Step-5** once the js file is saved 
+
+**Step-5** once the js file is saved (to start the script use)
 > $ node filename
-to start the script
+
+
 
 
 
