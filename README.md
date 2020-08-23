@@ -36,16 +36,17 @@ setup the path as:
 ### Getting started with selenium
 **Step-1** create a folder
 open terminal move to that folder
+
 **Step-2** initizalising
 > $ npm init -y
 
-**Step-3** installing required selenium-webdriver
+**Step-3** install required selenium-webdriver
 > $ npm install selenium-webdriver
 
 it will create the required packages and modules
 
 **Step-4** make a js file
-now you are ready for further assistance prefer the documentation
+now you are ready. For further assistance prefer the documentation
 https://www.selenium.dev/documentation/en/getting_started/
 
 **Step-5** once the js file is saved (to start the script use)
