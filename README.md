@@ -1,5 +1,8 @@
 ## Insta-Login Bot
 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/58786336/90976377-22176f80-e55a-11ea-9f74-54fea4fcbb79.gif)
+
+
 ### Description
 Hepls in Login Automation through selenium using javascript in linux.
 
@@ -52,7 +55,7 @@ https://www.selenium.dev/documentation/en/getting_started/
 **Step-5** once the js file is saved (to start the script use)
 > $ node filename
 
-![insta](https://user-images.githubusercontent.com/58786336/90975758-ac5cd500-e554-11ea-918a-76f7d52ff60f.gif)
+
 
 
 
