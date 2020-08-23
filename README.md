@@ -52,6 +52,8 @@ https://www.selenium.dev/documentation/en/getting_started/
 **Step-5** once the js file is saved (to start the script use)
 > $ node filename
 
+![insta](https://user-images.githubusercontent.com/58786336/90975758-ac5cd500-e554-11ea-918a-76f7d52ff60f.gif)
+
 
 
 
